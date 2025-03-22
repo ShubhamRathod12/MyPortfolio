@@ -46,7 +46,7 @@ const projects = [
   {
     title: 'Media Player',
     description: 'A C++ Qt-based media player project using Qt Multimedia to play audio/video files with a custom UI, controls (play, pause, stop), and a seek bar. The player integrates QMediaPlayer and QVideoWidget for smooth playback and user interaction',
-    image: 'src\\components\\mediaplyaer.jpg',
+    image: '/mediaplyaer.jpg',
     tags: ['CPP', 'QT'],
     github: 'https://github.com/ShubhamRathod12/QT-Multimedia-player',
     live: '#'

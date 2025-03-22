@@ -97,7 +97,7 @@ export default function Hero() {
               <div className="w-full h-full bg-gradient-to-r from-primary-500 via-accent-500 to-primary-500 rounded-full animate-spin-slow opacity-75 blur"></div>
             </div>
             <img
-              src="\src\components\shubham .jpg"
+              src="/shubham .jpg"
               alt="Profile"
               className="relative w-48 h-48 rounded-full border-4 border-gray-950 object-cover"
             />
