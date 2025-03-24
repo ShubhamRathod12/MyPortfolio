@@ -11,7 +11,7 @@ const timelineItems = [
   },
   {
     year: '2022',
-    title: 'Bechalor Engineering ',
+    title: 'Bachelor Of Engineering ',
     description: 'L.D. COLLEGE OF ENGINEERING [GTU]',
     icon: Calendar
   },
